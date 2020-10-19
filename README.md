@@ -3,5 +3,6 @@ This is a test repo
 line 2 
 line 2,5
 line 3
+3.5
 line 4
 line 5
